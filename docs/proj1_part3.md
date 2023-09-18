@@ -20,8 +20,8 @@ Vaishnavi Naik (vnaik@ncsu.edu)
 
 > Below, we present our findings regarding these projects:
 > 
-1. **PROJECTS**
-2. Slash:
+**I.** **PROJECTS**
+1. Slash:
 
 > The slash application by NCSU-Group-7 aims at providing users a publicly accessible web API framework to scrape through popular e-commerce websites and provide the best deals possible.
 > 
@@ -32,7 +32,7 @@ Vaishnavi Naik (vnaik@ncsu.edu)
 > 
 > As an application that was designed to be used by the general public for shopping, I felt that there was an extensive need for an updated guide/readme with exhaustive, easy-to-follow steps to install the required modules for the application to run properly. That would be a better suited repository intended for public use.
 > 
-1. Stock Guide and Analyst
+2. Stock Guide and Analyst
 
 > The stock exchange prediction application is a software that uses machine learning to analyze and compare the data collected from multiple companies on the stock market and provide a GUI to the user for analysis.
 > 
@@ -43,7 +43,7 @@ Vaishnavi Naik (vnaik@ncsu.edu)
 > 
 > This repository had multiple issues according to me. The readme file just contained some screenshots of the WebUI they created, with a few commands on how to run it either as a tester or a developer. There was no proper documentation for troubleshooting issues that a user might face during installation. No steps were provided to install the main frameworks like Docker, Flask that are an essential part of their implementation. A general public user with no knowledge of what docker/flask is wouldn’t be able to use this application at all.
 > 
-1. Tommas-Slash
+3. Tommas-Slash
 
 > Our evaluation of the "slash" project, designed to scrape major e-commerce websites and list top recommended products via a CLI or GUI, revealed a series of challenges. Initially, even after package installation, there were instances of missing packages, necessitating manual installations to fulfill dependencies.
 > 
@@ -54,11 +54,11 @@ Vaishnavi Naik (vnaik@ncsu.edu)
 > 
 > Subsequently, when attempting to run the Flask web application, we encountered yet more missing module issues. Surprisingly, individual examination of each Python file revealed no apparent issues, indicating a disconnect between the Flask setup and the codebase. These challenges collectively posed obstacles to achieving the desired functionality of the "slash" project.
 > 
-1. Wolftrack 3.0
+4. Wolftrack 3.0
 
 > The WebGUI of the project ran well and they had clearly mentioned if any issue arises (which we think they might have encountered when trying test cases), what steps need to be taken. However, they also tried implementing the same using Docker to make it platform independent. When we tried that part of the project, we faced an issue. There were certain modules which needed to be installed while creating the Docker image of the application. This module installation was not mentioned anywhere in the repo. We learnt that when we encounter any issue during test cases, we need to make a note of the same so that we can summarize it in our report. This will help first time users to get better hold of the product. The only major issue while trying to run the project was some necessary modules were not told to be installed by the docker script, so once the packages were installed the application runs without any issues.
 > 
-1. GITS2.1-I.R.I.S
+5. GITS2.1-I.R.I.S
 
 > We found this project very interesting because this project will help us students as well as in the industry.
 > 
