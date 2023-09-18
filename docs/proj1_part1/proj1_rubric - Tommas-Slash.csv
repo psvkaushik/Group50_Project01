@@ -1,0 +1,35 @@
+,,,,
+,Repo: https://github.com/TommasU/slash,,,
+,,,,
+,,,,
+,,,,
+,Notes,Points,Links,Reason
+,Video,0,,Missing Video
+,"Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot)",2,,"Number of commits show a wide range of numbers, and it looks like it was not equally distributed."
+,Number of commits,3,,438 total commits have been made.
+,Number of commits: by different people,3,,git shortlog -s -n
+,Issues reports: there are many,3,https://github.com/TommasU/slash/issues?q=is%3Aissue+is%3Aclosed,12 Issues but all closed
+,Issues are being closed,3,https://github.com/TommasU/slash/issues?q=is%3Aissue+is%3Aclosed,All the issues are closed
+,DOI badge: exists,3,https://zenodo.org/record/5739350,
+,"Docs: doco generated, format not ugly",3,,Formatting is neat and is easy to naviagte
+,Docs: what: point descriptions of each class/function (in isolation),3,,Each feature of the end product is exaplained with the available options
+,"Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z",2,,"There are no tutorials as such, but most of the features have examples of the end result. No details or samples of GUI portal"
+,"Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing",3,,The concept and examples of outputs are relayed in detail to interest the reader
+,"Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.",1,,There is no video and GIF does relay the impact or use case of project
+,Use of version control tools,3,,Github is used to host the project
+,Use of style checkers,1,https://github.com/TommasU/slash/blob/main/.github/workflows/style_checker.yml,"Not used, looks like a dummy file"
+,Use of code formatters.,0,,No code formatter file in workflows
+,Use of syntax checkers.,3,,Py Lint used
+,Use of code coverage,3,,Coverage tile is also present on the landing page
+,Other automated analysis tools,0,,Nothing else exists
+,Test cases exist,2,,Code coverage is 70
+,Test cases are routinely executed,0,,
+,The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up,3,https://github.com/TommasU/slash/blob/main/CONTRIBUTING.md,The explanation is in detail
+,Issues are discussed before they are closed,1,https://github.com/TommasU/slash/issues?q=is%3Aissue+is%3Aclosed,There are barely any comments on the issues before being closed
+,Chat channel: exists,0,,
+,Test cases: a large proportion of the issues related to handling failing cases.,0,https://github.com/TommasU/slash/issues?q=is%3Aissue+is%3Aclosed,None of the issues have the tag corrosponding to that
+,Evidence that the whole team is using the same tools: everyone can get to all tools and files,3,,"There are 33 forks of the repo, and everyone was commiting at various times, so we can assume that they tested before commiting."
+,"Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)",2,,As per commit history only a couple of people were active in the time frame of the 4 releases.
+,"Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)",3,,
+,Evidence that the members of the team are working across multiple places in the code base,3,,"We can see that someone was commiting on front end of the code, someone was focused on workflows and others on backend."
+,Short release cycles,3,https://github.com/TommasU/slash/releases,4 releases published in just 8 days.
